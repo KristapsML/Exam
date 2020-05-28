@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9d2d68091aa885796f82086699ce4fd6.js"
+  "/precache-manifest.bdb4f60565b98a93bfbabeb1691d3684.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "PinployAffiliate"});
